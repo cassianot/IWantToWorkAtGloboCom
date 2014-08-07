@@ -58,13 +58,13 @@ Implantação do software SE Suite, participando de todas as reuniões e decisõ
 Desenvolvimento de features, implantação, treinamento e manutenção do sistema de chamado da Editora Positivo. Após implantação, foi possível medir o desempenho da equipe de TI, identificar falhas, pontos positivos e criar novos SLA’s para melhor acompanhamento.<br/><br/>
 
 **Cargo**: Professor – Janeiro de 2011 a Fevereiro de 2012<br/>
-Faculdades Santa Cruz
+Faculdades Santa Cruz<br/>
 **Principais responsabilidades:**<br/>
 
 * Lecionando a disciplina de Desenvolvimento Web para o curso de Tecnologia em Gestão de TI. Dentre os assuntos abordados no conteúdo programático estão Introdução a HTML, XML, XSLT, CSS, Padrões W3C e PHP.<br/><br/>
 
 **Cargo:** Analista de Sistemas Pleno – Outubro de 2008 a Maio de 2012<br/>
-Esystech – Embedded System Technologies
+Esystech – Embedded System Technologies<br/>
 **Principais responsabilidades:**<br/>
 
 * Responsável técnico pelo software ADOTI de gestão e operação de infraestrutura de TI. Respondia frente aos clientes sobre a solução completa, integrava a equipe de suporte e desenvolvimento para personalização do software. Desenvolvimento de projetos de implantação do software e processos relacionados para empresas como Votorantim, Grupo Positivo, Unimed, Hering, Britanite entre outros. 
