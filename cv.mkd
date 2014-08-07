@@ -13,8 +13,8 @@ CV
 
 Cassiano Alberto Tomasini
 ===
-* Idade: 33 anos
-* Estado Civil: Casado / 1 filho
+-Idade: 33 anos
+-Estado Civil: Casado / 1 filho
 
 Objetivos
 Atuar na área de desenvolvimento de sistemas web, participando desde a especificação até o acompanhamento / desenvolvimento da solução.
