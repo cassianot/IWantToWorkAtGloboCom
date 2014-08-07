@@ -11,7 +11,7 @@ __Dicas:__
 CV
 ==
 
-Cassiano Alberto Tomasini
+===Cassiano Alberto Tomasini
 Idade: 33 anos
 Estado Civil: Casado / 1 filho
 
@@ -59,19 +59,19 @@ Cargo: Professor – Janeiro de 2011 a Fevereiro de 2012
 Faculdades Santa Cruz
 Principais responsabilidades: 
 
-	Lecionando a disciplina de Desenvolvimento Web para o curso de Tecnologia em Gestão de TI. Dentre os assuntos abordados no conteúdo programático estão Introdução a HTML, XML, XSLT, CSS, Padrões W3C e PHP.
+Lecionando a disciplina de Desenvolvimento Web para o curso de Tecnologia em Gestão de TI. Dentre os assuntos abordados no conteúdo programático estão Introdução a HTML, XML, XSLT, CSS, Padrões W3C e PHP.
 
 Cargo: Analista de Sistemas Pleno – Outubro de 2008 a Maio de 2012 
 Esystech – Embedded System Technologies
 Principais responsabilidades: 
 
-	Responsável técnico pelo software ADOTI de gestão e operação de infraestrutura de TI. Respondia frente aos clientes sobre a solução completa, integrava a equipe de suporte e desenvolvimento para personalização do software. Desenvolvimento de projetos de implantação do software e processos relacionados para empresas como Votorantim, Grupo Positivo, Unimed, Hering, Britanite entre outros. 
+Responsável técnico pelo software ADOTI de gestão e operação de infraestrutura de TI. Respondia frente aos clientes sobre a solução completa, integrava a equipe de suporte e desenvolvimento para personalização do software. Desenvolvimento de projetos de implantação do software e processos relacionados para empresas como Votorantim, Grupo Positivo, Unimed, Hering, Britanite entre outros. 
 
 Cargo: Analista de Suporte Pleno – Junho de 2004 a Julho de 2008
 Grupo Positivo – Central Administrativa
 Principais responsabilidades: 
 
-	Suporte técnico nível III para as sedes do grupo Positivo. Manutenção dos servidores Windows e Netware. Responsável por serviços de File Server, backup e segurança (permissões). 
+Suporte técnico nível III para as sedes do grupo Positivo. Manutenção dos servidores Windows e Netware. Responsável por serviços de File Server, backup e segurança (permissões). 
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
