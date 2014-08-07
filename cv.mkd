@@ -12,67 +12,68 @@ CV
 ==
 
 Cassiano Alberto Tomasini
-====
-- Idade: 33 anos
-- Estado Civil: Casado / 1 filho
+=========================
+Idade: 33 anos
+Estado Civil: Casado / 1 filho
 
-Objetivos
+**Objetivos**:
 Atuar na área de desenvolvimento de sistemas web, participando desde a especificação até o acompanhamento / desenvolvimento da solução.
 
 Formação
-Pós Graduação – Especialista em Tecnologia Java - UTFPR – Universidade Tecnológica Federal do Paraná. Concluído em Março/2011
-Ensino Superior – Tecnólogo em Desenvolvimento Web - Faculdade Santa Cruz / Curitiba - PR. Concluído em Julho/2008
+========
+**Pós Graduação**: Especialista em Tecnologia Java - UTFPR – Universidade Tecnológica Federal do Paraná. Concluído em Março/2011<br />
+**Ensino Superior**: Tecnólogo em Desenvolvimento Web - Faculdade Santa Cruz / Curitiba - PR. Concluído em Julho/2008
 
 Qualificações
-	Sólido conhecimento nas linguagens de programação PHP, Java e C#.
-	Fortes conhecimentos em HTML, CSS, Javascript e padrões de desenvolvimento web.
-	Inglês Avançado (Escrita, fala e leitura).
-	Domínio na linguagem SQL e em servidores SQL Server e MySql.
-	Conhecimento em diagramas UML para desenvolvimento de sistemas.
-	Design Patterns e processos de desenvolvimento.
-	Desenvolvimento de processos e sistemas baseado em ITIL v3 (Curso realizado em Curitiba, 60 horas).
-	Desenvolvimento de documentação de projetos de acordo com o padrão PMI (Curso gestão de Projetos – Universidade Positivo).
+=============
+* Sólido conhecimento nas linguagens de programação PHP, Java e C#.
+* Fortes conhecimentos em HTML, CSS, Javascript e padrões de desenvolvimento web.
+* Inglês Avançado (Escrita, fala e leitura).
+* Domínio na linguagem SQL e em servidores SQL Server e MySql.
+* Conhecimento em diagramas UML para desenvolvimento de sistemas.
+* Design Patterns e processos de desenvolvimento.
+* Desenvolvimento de processos e sistemas baseado em ITIL v3 (Curso realizado em Curitiba, 60 horas).
+* Desenvolvimento de documentação de projetos de acordo com o padrão PMI (Curso gestão de Projetos – Universidade Positivo).
 
 
 Experiência Profissional
-Cargo: Analista de Sistemas Sênior – Maio de 2012 Até o momento
-Editora Positivo
-Principais responsabilidades: 
+========================
+**Cargo**: Analista de Sistemas Sênior – Maio de 2012 Até o momento<br/>
+Editora Positivo<br/>
+**Principais responsabilidades:**<br/>
 
-Responsável pelo sistema de faturamento, controle de estoque, expedição, frete e relatórios da empresa.  Desenvolvimento de projetos junto aos clientes internos de novas soluções de TI que atendam 
+* Responsável pelo sistema de faturamento, controle de estoque, expedição, frete e relatórios da empresa.  Desenvolvimento de projetos junto aos clientes internos de novas soluções de TI que atendam 
 aos novos processos da empresa e acompanhamento do desenvolvimento junto a terceiros.
-
-Responsável técnico pelo sistema Tlex, utilizado para o desenvolvimento dos Dicionários da família Aurélio. Desenvolvimento de scripts em LUA para alteração em massa de dados, DTD’s, 
+* Responsável técnico pelo sistema Tlex, utilizado para o desenvolvimento dos Dicionários da família Aurélio. Desenvolvimento de scripts em LUA para alteração em massa de dados, DTD’s, 
 validação de XML’s, exportação e validação para produção. 
-
-Responsável técnico pelo sistema de controle de gestão de indicadores e resultados das escolas e prefeituras conveniadas e desenvolvimento de especificações técnicas para desenvolvimento 
+* Responsável técnico pelo sistema de controle de gestão de indicadores e resultados das escolas e prefeituras conveniadas e desenvolvimento de especificações técnicas para desenvolvimento 
 junto a terceiros.
 
-Projetos desenvolvidos
+**Projetos desenvolvidos:**
 
-Parametrização e implantação software SE Suite
+* Parametrização e implantação software SE Suite<br/>
 Implantação do software SE Suite, participando de todas as reuniões e decisões sobre os novos processos de produção de livros. Após a conclusão, era possível rastrear em que ponto estava à produção de uma nova obra, além de custo e tempo.
 
-Desenvolvimento e implantação de sistema de chamados
-Desenvolvimento de features, implantação, treinamento e manutenção do sistema de chamado da Editora Positivo. Após implantação, foi possível medir o desempenho da equipe de TI, identificar falhas, pontos positivos e criar novos SLA’s para melhor acompanhamento.
+* Desenvolvimento e implantação de sistema de chamados:<br/>
+Desenvolvimento de features, implantação, treinamento e manutenção do sistema de chamado da Editora Positivo. Após implantação, foi possível medir o desempenho da equipe de TI, identificar falhas, pontos positivos e criar novos SLA’s para melhor acompanhamento.<br/><br/>
 
-Cargo: Professor – Janeiro de 2011 a Fevereiro de 2012 
+**Cargo**: Professor – Janeiro de 2011 a Fevereiro de 2012<br/>
 Faculdades Santa Cruz
-Principais responsabilidades: 
+**Principais responsabilidades:**<br/>
 
-Lecionando a disciplina de Desenvolvimento Web para o curso de Tecnologia em Gestão de TI. Dentre os assuntos abordados no conteúdo programático estão Introdução a HTML, XML, XSLT, CSS, Padrões W3C e PHP.
+* Lecionando a disciplina de Desenvolvimento Web para o curso de Tecnologia em Gestão de TI. Dentre os assuntos abordados no conteúdo programático estão Introdução a HTML, XML, XSLT, CSS, Padrões W3C e PHP.<br/><br/>
 
-Cargo: Analista de Sistemas Pleno – Outubro de 2008 a Maio de 2012 
+**Cargo:** Analista de Sistemas Pleno – Outubro de 2008 a Maio de 2012<br/>
 Esystech – Embedded System Technologies
-Principais responsabilidades: 
+**Principais responsabilidades:**<br/>
 
-Responsável técnico pelo software ADOTI de gestão e operação de infraestrutura de TI. Respondia frente aos clientes sobre a solução completa, integrava a equipe de suporte e desenvolvimento para personalização do software. Desenvolvimento de projetos de implantação do software e processos relacionados para empresas como Votorantim, Grupo Positivo, Unimed, Hering, Britanite entre outros. 
+* Responsável técnico pelo software ADOTI de gestão e operação de infraestrutura de TI. Respondia frente aos clientes sobre a solução completa, integrava a equipe de suporte e desenvolvimento para personalização do software. Desenvolvimento de projetos de implantação do software e processos relacionados para empresas como Votorantim, Grupo Positivo, Unimed, Hering, Britanite entre outros. 
 
-Cargo: Analista de Suporte Pleno – Junho de 2004 a Julho de 2008
+**Cargo:** Analista de Suporte Pleno – Junho de 2004 a Julho de 2008<br/>
 Grupo Positivo – Central Administrativa
-Principais responsabilidades: 
+**Principais responsabilidades:**
 
-Suporte técnico nível III para as sedes do grupo Positivo. Manutenção dos servidores Windows e Netware. Responsável por serviços de File Server, backup e segurança (permissões). 
+* Suporte técnico nível III para as sedes do grupo Positivo. Manutenção dos servidores Windows e Netware. Responsável por serviços de File Server, backup e segurança (permissões). 
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
