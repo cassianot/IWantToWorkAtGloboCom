@@ -70,7 +70,7 @@ Esystech – Embedded System Technologies<br/>
 * Responsável técnico pelo software ADOTI de gestão e operação de infraestrutura de TI. Respondia frente aos clientes sobre a solução completa, integrava a equipe de suporte e desenvolvimento para personalização do software. Desenvolvimento de projetos de implantação do software e processos relacionados para empresas como Votorantim, Grupo Positivo, Unimed, Hering, Britanite entre outros. 
 
 **Cargo:** Analista de Suporte Pleno – Junho de 2004 a Julho de 2008<br/>
-Grupo Positivo – Central Administrativa
+Grupo Positivo – Central Administrativa<br/>
 **Principais responsabilidades:**
 
 * Suporte técnico nível III para as sedes do grupo Positivo. Manutenção dos servidores Windows e Netware. Responsável por serviços de File Server, backup e segurança (permissões). 
